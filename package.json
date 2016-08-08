@@ -1,0 +1,21 @@
+{
+  "name": "react-sortable-table",
+  "main": "./lib/index.js",
+  "version": "0.0.0",
+  "description": "Sortable react table component",
+  "keywords": [
+    "react",
+    "table",
+    "sortable"
+  ],
+  "repository": "https://github.com/archcorsair/react-sortable-table",
+  "license": "MIT",
+  "scripts": {
+    "test": "apm test",
+    "lint": "eslint ."
+  },
+  "devDependencies": {
+    "eslint-config-steelbrain": "^1.0.4",
+    "jasmine-fix": "^1.0.0"
+  }
+}
