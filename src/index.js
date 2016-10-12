@@ -1,3 +1,5 @@
 /* @flow */
-
-console.log('Hello World')
+ReactDOM.render(
+  <App />,
+  document.getElementById('someId')
+)

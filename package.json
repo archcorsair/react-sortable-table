@@ -23,5 +23,8 @@
     "babel-cli": "^6.10.1",
     "babel-plugin-for-of-efficient": "^1.0.0",
     "babel-preset-steelbrain": "^4.0.1"
+  },
+  "dependencies": {
+    "react": "^15.3.2"
   }
 }
