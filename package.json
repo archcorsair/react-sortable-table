@@ -22,7 +22,7 @@
     "jasmine-fix": "^1.0.0",
     "babel-cli": "^6.10.1",
     "babel-plugin-for-of-efficient": "^1.0.0",
-    "babel-preset-steelbrain": "^4.0.1"
+    "babel-preset-steelbrain": "^5.0.0"
   },
   "dependencies": {
     "react": "^15.3.2"
