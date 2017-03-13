@@ -20,7 +20,7 @@
   "devDependencies": {
     "eslint-config-steelbrain": "^1.0.4",
     "jasmine-fix": "^1.0.0",
-    "babel-cli": "^6.10.1",
+    "babel-cli": "^6.24.0",
     "babel-plugin-for-of-efficient": "^1.0.0",
     "babel-preset-steelbrain": "^5.0.0"
   },
